@@ -1,0 +1,13 @@
+{
+    "name": "wfpimentel/jwt",
+    "description": "Testing JWT",
+    "authors": [
+        {
+            "name": "Fernando Di Masi",
+            "email": "wildiney@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    }
+}
